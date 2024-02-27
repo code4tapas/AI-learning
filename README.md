@@ -1,2 +1,4 @@
 # AI-learning
-This is test folder for AI
+This is test project to learn for AI
+<br>
+<b>Author</b> Tapas
